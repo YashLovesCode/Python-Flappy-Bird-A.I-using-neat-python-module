@@ -1,4 +1,3 @@
-# the code to the game and the A.I
 import time
 import pygame
 import os
